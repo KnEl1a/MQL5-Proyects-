@@ -1,11 +1,8 @@
 instrucciones simplificadas Mt5:
 
-Abre Nuevo Proyecto:
+Descargue un archivo .mq5
 
-En MetaEditor, elige "Nuevo" -> "Asesor Experto (plantilla)".
+Compile el Código:
 
-Compila el Código:
-
-Haz clic en "Compilar" para asegurarte de que no haya errores.
-
+Haga clic en "Compilar".
 Ctrl +f5 para ejecutar el algoritmo en el "probador"
